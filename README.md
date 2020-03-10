@@ -1,0 +1,2 @@
+# notePython
+notes fro python
